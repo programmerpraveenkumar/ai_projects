@@ -1,0 +1,4 @@
+langchain
+langchain-ollama
+psycopg2-binary
+requests

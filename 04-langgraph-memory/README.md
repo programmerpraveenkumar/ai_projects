@@ -1,0 +1,1 @@
+Uses LangGraph InMemorySaver to demonstrate thread-scoped state/checkpointing. For durable production memory, replace the checkpointer with a persistent backend.
